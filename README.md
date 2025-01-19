@@ -24,10 +24,10 @@ The study revealed the dependency of MSE on:
 - Noise variance – higher variance requires a longer horizon for effective denoising.
 
 Sample result images:
-<div align="center">
-  <img src="1/img/noise_0.2_horizons_2.png" alt="Noise Level 0.2" width="600"/>
-  <img src="1/img/noise_1.0_horizons_20.png" alt="Noise Level 1.0" width="600"/>
-</div>
+
+<img src="1/img/noise_0.2_horizons_2.png" alt="Noise Level 0.2" width="600"/>
+<img src="1/img/noise_1.0_horizons_20.png" alt="Noise Level 1.0" width="600"/>
+
 ---
 
 ## Project 2: Systems with Dynamic Parameters
@@ -44,10 +44,9 @@ Sample result images:
 - Importance of the forgetting factor (λ) – lower values improve responsiveness to changes but increase sensitivity to noise.
 
 Sample result image (dynamic parameters):
-<div align="center">
-  ![Dynamic Parameters](2/img/delta_1_no_noise.png)
-  ![Dynamic Parameters](2/img/delta_1_noise.png)
-</div>
+
+![Dynamic Parameters](2/img/delta_1_no_noise.png)
+![Dynamic Parameters](2/img/delta_1_noise.png)
 
 ---
 
@@ -68,9 +67,7 @@ Sample result image (dynamic parameters):
 
 Sample result image (optimal values):
 
-<div align="center">
-  ![Optimization Results](3/img/Figure_1.png)
-</div>
+![Optimization Results](3/img/Figure_1.png)
 
 ---
 
